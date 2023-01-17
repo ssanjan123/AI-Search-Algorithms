@@ -1,4 +1,5 @@
 # AI-Search-Algorithms
+![download](https://user-images.githubusercontent.com/84153519/212824794-d1a41ac3-97dc-47be-85db-320fd26b8c2f.png)
 
 This repository contains a solution for solving various problems using the A* search algorithm. The project was developed using Python and various heuristic functions were used to guide the search towards the optimal solution.
 
