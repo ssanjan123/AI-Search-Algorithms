@@ -1,5 +1,6 @@
 # AI-Search-Algorithms
-![download](https://user-images.githubusercontent.com/84153519/212824794-d1a41ac3-97dc-47be-85db-320fd26b8c2f.png)
+
+![frederick_a_design_of_rubicks_cube_with_8_puzzle_for_an_AI_prob_dc86495a-a058-4e56-a50d-082ca6cbc677](https://user-images.githubusercontent.com/84153519/213346017-096904cc-26d9-4ff3-b4a8-8ef96236a339.png)
 
 This repository contains a solution for solving various problems using the A* search algorithm. The project was developed using Python and various heuristic functions were used to guide the search towards the optimal solution.
 
