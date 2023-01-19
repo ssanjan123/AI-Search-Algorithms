@@ -14,7 +14,7 @@ This repository contains a solution for solving various problems using the A* se
 ### Installation
 
 Clone the repository and navigate to the directory:
-git clone https://github.com/ssanjan123>/ai-search-algorithms.git
+git clone https://github.com/ssanjan123/AI-Search-Algorithms
 
 ### Usage
 
