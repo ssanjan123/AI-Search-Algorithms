@@ -2,7 +2,7 @@
 
 This repository contains a solution for solving various problems using the A* search algorithm. The project was developed using Python and various heuristic functions were used to guide the search towards the optimal solution.
 
-<img src="https://user-images.githubusercontent.com/84153519/213346017-096904cc-26d9-4ff3-b4a8-8ef96236a339.png" width="500" height="300">
+<img src="https://user-images.githubusercontent.com/84153519/213346017-096904cc-26d9-4ff3-b4a8-8ef96236a339.png" width="300" height="500">
 
 
 
